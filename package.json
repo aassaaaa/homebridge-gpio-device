@@ -1,6 +1,6 @@
 {
   "name": "homebridge-gpio-device",
-  "version": "0.4.9",
+  "version": "0.5.0",
   "description": "Homebridge plugin exposing devices plugged on GPIO",
   "main": "index.js",
   "scripts": {
@@ -12,17 +12,17 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/dubocr/homebridge-gpio-device.git"
+    "url": "git://github.com/aassaaaa/homebridge-gpio-device.git"
   },
   "bugs": {
-    "url": "http://github.com/dubocr/homebridge-gpio-device/issues"
+    "url": "http://github.com/aassaaaa/homebridge-gpio-device/issues"
   },
   "engines": {
     "node": ">=0.12.0",
     "homebridge": ">=0.2.0"
   },
-  "homepage": "https://github.com/dubocr/homebridge-gpio-device#readme",
-  "author": "Romain DUBOC",
+  "homepage": "https://github.com/aassaaaa/homebridge-gpio-device#readme",
+  "author": "aassaaaa",
   "license": "ISC",
   "dependencies": {
     "onoff": "~6.0.1"
