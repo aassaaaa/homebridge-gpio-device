@@ -4,7 +4,7 @@ Homebridge GPIO device expose several HomeKit accessories interacting with GPIO
 
 # Installation
 
-1. Install latest NodeJS 10.x (tested with 10.19.0)
+1. Install latest NodeJS 11.x (tested with 11.1.0)
 2. Install homebridge using: `npm install -g homebridge`
 3. Install wiringPi using: `sudo apt-get install wiringpi`
 3. Add rights to homebridge user if running homebridge as systemd service: `sudo usermod -a -G gpio homebridge`
